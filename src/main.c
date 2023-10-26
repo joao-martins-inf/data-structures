@@ -1,5 +1,5 @@
-#include "structs/list.c"
-#include "structs/list.h"
+#include "structs/ArrayList.c"
+#include "structs/ArrayList.h"
 #include <stdio.h>
 
 int main() {
